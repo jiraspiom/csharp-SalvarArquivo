@@ -1,0 +1,15 @@
+C:\Users\jiras\source\repos\testando\testando\bin\Debug\net6.0\SalvarArquivo.exe
+C:\Users\jiras\source\repos\testando\testando\bin\Debug\net6.0\SalvarArquivo.deps.json
+C:\Users\jiras\source\repos\testando\testando\bin\Debug\net6.0\SalvarArquivo.runtimeconfig.json
+C:\Users\jiras\source\repos\testando\testando\bin\Debug\net6.0\SalvarArquivo.dll
+C:\Users\jiras\source\repos\testando\testando\bin\Debug\net6.0\SalvarArquivo.pdb
+C:\Users\jiras\source\repos\testando\testando\obj\Debug\net6.0\SalvarArquivo.csproj.AssemblyReference.cache
+C:\Users\jiras\source\repos\testando\testando\obj\Debug\net6.0\SalvarArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiras\source\repos\testando\testando\obj\Debug\net6.0\SalvarArquivo.AssemblyInfoInputs.cache
+C:\Users\jiras\source\repos\testando\testando\obj\Debug\net6.0\SalvarArquivo.AssemblyInfo.cs
+C:\Users\jiras\source\repos\testando\testando\obj\Debug\net6.0\SalvarArquivo.csproj.CoreCompileInputs.cache
+C:\Users\jiras\source\repos\testando\testando\obj\Debug\net6.0\SalvarArquivo.dll
+C:\Users\jiras\source\repos\testando\testando\obj\Debug\net6.0\refint\SalvarArquivo.dll
+C:\Users\jiras\source\repos\testando\testando\obj\Debug\net6.0\SalvarArquivo.pdb
+C:\Users\jiras\source\repos\testando\testando\obj\Debug\net6.0\SalvarArquivo.genruntimeconfig.cache
+C:\Users\jiras\source\repos\testando\testando\obj\Debug\net6.0\ref\SalvarArquivo.dll
